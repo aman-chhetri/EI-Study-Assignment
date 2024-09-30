@@ -27,7 +27,7 @@ assignment as submitted.
 
 ## How to Run
 
-1. Navigate to the `Exercise 2/Virtual Classroom Manager/src` directory:
+1. Navigate to the directory:
     ```bash
     cd Exercise 2/Virtual Classroom Manager/src
     ```
