@@ -1,4 +1,4 @@
-# EI-Study-Assignment
+# EI Study Assignment
 
 # Task: Design Patterns & Virtual Classroom Manager
 
