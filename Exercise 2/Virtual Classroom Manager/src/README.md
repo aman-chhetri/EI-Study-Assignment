@@ -1,4 +1,4 @@
-# Exercise 2: Virtual Classroom Manager Application
+# 📝 Exercise 2: Virtual Classroom Manager Application
 
 ## Overview
 This project is a Virtual Classroom Manager Application implemented in Java. The application workflow goes on like this:

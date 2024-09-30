@@ -1,4 +1,4 @@
-# EI Study Assignment
+# ✨ EI Study Assignment
 
 ## 📝 Task: Design Patterns & Virtual Classroom Manager
 
@@ -7,7 +7,7 @@
 This repository contains two separate Java Console-based applications. It contains two different exercises related to Software Design Patterns and Virtual Classroom Manager. The repository is organized into two main folders:
 
 
-### 🔗 [Exercise 1: Design Patterns](https://github.com/aman-chhetri/EI-Study-Assignment/tree/99ccadc0b6a607312cbae8f11dfeda7c8344804b/Exercise%201)
+### 🚩 [Exercise 1: Design Patterns](https://github.com/aman-chhetri/EI-Study-Assignment/tree/99ccadc0b6a607312cbae8f11dfeda7c8344804b/Exercise%201)
 
 - Implements six design patterns:
   - **Behavioral Patterns**: Observer, Strategy
@@ -15,7 +15,7 @@ This repository contains two separate Java Console-based applications. It contai
   - **Structural Patterns**: Adapter, Decorator
 
 
-### 🔗 [Exercise 2: Virtual Classroom Manager](https://github.com/aman-chhetri/EI-Study-Assignment/tree/main/Exercise%202/Virtual%20Classroom%20Manager/src)
+### 🚩 [Exercise 2: Virtual Classroom Manager](https://github.com/aman-chhetri/EI-Study-Assignment/tree/main/Exercise%202/Virtual%20Classroom%20Manager/src)
 
 - **User Input**: Add classroom and student, schedule and submit assignment.
 - **Console Output**:
