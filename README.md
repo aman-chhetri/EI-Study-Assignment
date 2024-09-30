@@ -1,20 +1,20 @@
 # EI Study Assignment
 
-# Task: Design Patterns & Virtual Classroom Manager
+## 📝 Task: Design Patterns & Virtual Classroom Manager
 
 ## Overview
 
-This repository contains two separate Java Console-based applications:
+This repository contains two separate Java Console-based applications. It contains two different exercises related to Software Design Patterns and Virtual Classroom Manager. The repository is organized into two main folders:
 
 
-### **Exercise 1: Design Patterns**
+### 🔗 **Exercise 1: Design Patterns**
 - Implements six design patterns:
   - **Behavioral Patterns**: Observer, Strategy
   - **Creational Patterns**: Singleton, Factory
   - **Structural Patterns**: Adapter, Decorator
   
 
-### **Exercise 2: Virtual Classroom Manager**
+### 🔗 **Exercise 2: Virtual Classroom Manager**
 - **User Input**: Add classroom and student, schedule and submit assignment.
 - **Console Output**:
   - **Classroom Addition:** "Classroom [Name] has been created."
@@ -29,7 +29,7 @@ This repository contains two separate Java Console-based applications:
   - **Assignment Management:**  Schedule assignments for classrooms and allow students to submit them.
 
 
-## How to Run Virtual Classroom Manager
+## ⚙️ How to Run Virtual Classroom Manager
 
 1. Navigate to the directory:
     ```bash
@@ -43,3 +43,14 @@ This repository contains two separate Java Console-based applications:
     ```bash
     java Main
     ```
+    
+## 📩 Contact 
+
+If you have any questions or feedback, feel free to reach out 🙂
+
+- Email: chhetryaman3@gmail.com
+- LinkedIn : [@amankshetri](https://www.linkedin.com/in/amankshetri/)
+- Twitter : [@iamamanchhetri](https://twitter.com/iamamanchhetri)
+
+
+<div align="center">© 2024 Aman Kshetri 👨‍💻</div>
